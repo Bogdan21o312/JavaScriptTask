@@ -13,6 +13,12 @@
  *
  */
 
+/**
+ *
+ * Algorithm complexity 0(log n)
+ *
+ * */
+
 let arr1 = [1, 2, 3, 4, 3, 2, 1]
 let arr3 = [10, 9, 8, 7, 6]
 let arr2 = [1, 2, 3, 4, 5, 6, 5, 4, 3, 2]
